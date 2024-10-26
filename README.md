@@ -33,5 +33,5 @@ python ᴅ͢ᴇ𝙲𝚘𝕯𝓮Ʀ.py
 ```
 
 
-![logo](![logo](https://github.com/Xylon-404/ENCODE/blob/main/GIF_20241026_182100_191.gif)
+![logo](![logo](https://github.com/Xylon-404/ENCODE/blob/main/Screenshot_20241026-181102.png)
 )
