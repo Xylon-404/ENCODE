@@ -23,14 +23,13 @@ python ᴅ͢ᴇ𝙲𝚘𝕯𝓮Ʀ.py
 ```
 
 #### USERNAME 
-```
 
-```
+
+https://t.me/Abdullha_404/864
 
 #### Password 
-```
 
-```
+https://t.me/Abdullha_404/864
 
 
 ![logo](![logo](https://github.com/Xylon-404/ENCODE/blob/main/Screenshot_20241026-181102.png)
