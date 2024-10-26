@@ -12,7 +12,7 @@
 - No Termux Knowlegde
 
 
-![logo](https://github.com/Xylon-404/PIC/blob/main/trollface-bonkers.gif)
+![logo](https://github.com/Xylon-404/ENCODE/blob/main/GIF_20241026_182100_191.gif)
 
 #### TOOL 1 STYLISH VERY DANGER
 ```python
@@ -31,3 +31,7 @@ python ᴅ͢ᴇ𝙲𝚘𝕯𝓮Ʀ.py
 ```
 
 ```
+
+
+![logo](![logo](https://github.com/Xylon-404/ENCODE/blob/main/GIF_20241026_182100_191.gif)
+)
