@@ -32,5 +32,15 @@ https://t.me/Abdullha_404/864
 https://t.me/Abdullha_404/864
 
 
-![logo](![logo](https://github.com/Xylon-404/ENCODE/blob/main/Screenshot_20241026-181102.png)
-)
+## ENC V2 -
+
+![logo](XYLON.png)
+
+#### TOOL 2 WITH TERMUX
+```python
+rm -rf ENCODE
+git clone https://github.com/Xylon-404/ENCODE.git
+cd ENCODE
+python 𝙴ɴᶜ×͜×Ⓥ².py
+```
+
