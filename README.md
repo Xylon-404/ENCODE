@@ -22,15 +22,9 @@ cd ENCODE
 python ᴅ͢ᴇ𝙲𝚘𝕯𝓮Ʀ.py
 ```
 
-#### USERNAME 
+USERNAME: fuckq
 
-
-https://t.me/Abdullha_404/864
-
-#### Password 
-
-https://t.me/Abdullha_404/864
-
+PASSWORD: you
 
 ## ENC V2 -
 
